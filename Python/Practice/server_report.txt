@@ -1,0 +1,3 @@
+app1 - High CPU
+app2 - Normal CPU
+app3 - High CPU
